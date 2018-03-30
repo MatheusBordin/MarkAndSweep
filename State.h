@@ -40,7 +40,7 @@ public:
         // If object is 'visible' push left then
         stack.toLeft(ptr);
         // Mark then (fix circular dependencie)
-        ptr->marked++;
+        ptr->marked = markedLevel;
         // Increment total 'visible' objects
         totalMarked++;
 
