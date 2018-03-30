@@ -1,0 +1,3 @@
+C:/Users/mabor/Documents/Jobs/MarkAndSweep/cmake-build-debug/CMakeFiles/MarkAndSweep.dir
+C:/Users/mabor/Documents/Jobs/MarkAndSweep/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mabor/Documents/Jobs/MarkAndSweep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
